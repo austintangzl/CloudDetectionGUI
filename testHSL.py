@@ -1,0 +1,1 @@
+imgpath = self.requestImgEntryVar.get()
